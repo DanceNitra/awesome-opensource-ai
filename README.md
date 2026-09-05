@@ -581,6 +581,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Cognee](https://github.com/topoteretes/cognee) - AI memory platform for agents that builds a self-hosted knowledge graph for persistent, long-term memory across sessions. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)
 - [LoopX](https://github.com/huangruiteng/loopx) - Lightweight state kernel and local control plane for long-running AI agent loops with goal tracking, auto-wake, and verifiable handoffs. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/huangruiteng/loopx?style=social)
 - [Unlimited Context](https://github.com/AetherAI3/Unlimited-Context-LLM) - Local-first context and memory engine that keeps a billion-token encoded pool on disk and pages relevant slices into a small resident window for Ollama and other local LLMs. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/AetherAI3/Unlimited-Context-LLM?style=social)
+- [inspeximus](https://github.com/DanceNitra/inspeximus) - Memory layer that retires a corrected fact by key and can undo the correction later from the key alone. Zero-dependency core with an MCP server. ![GitHub stars](https://img.shields.io/github/stars/DanceNitra/inspeximus?style=social)
 
 ---
 
